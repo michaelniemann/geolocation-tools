@@ -1,0 +1,9 @@
+.vscode
+.idea
+
+maps
+ner_output
+
+.DS_Store
+
+stanford-ner-*
